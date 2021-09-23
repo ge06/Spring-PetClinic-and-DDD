@@ -146,4 +146,4 @@ içeren kendi Maven modülü vardır.
 
 Örneğin, pet service modülünün aşağıda da görüldüğü gibi 4 üyesi vardır: Vet , Speciality , VetRepository ve VetServiceApplication
 
-<img src="images/image8.png" width="288" height="360"> <img src="images/image9.png" width="290" height="360"> <img src="images/image10.png" width="290" height="360">
+<img src="images/image8.png" width="280" height="350"> <img src="images/image9.png" width="280" height="350"> <img src="images/image10.png" width="280" height="350">
